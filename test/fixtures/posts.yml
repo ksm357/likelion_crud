@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dbTitle: MyString
+  dbContent: MyText
+  dbName: MyString
+
+two:
+  dbTitle: MyString
+  dbContent: MyText
+  dbName: MyString
